@@ -1,7 +1,7 @@
 # FICBANK Security Monitoring Data Analysis (Log Analysis & Threat Detection)
 
 ## Full Report
-[Click here to view the full report](PASTE-YOUR-PDF-LINK-HERE)
+[Click here to view the full report](https://github.com/Viney-Washington/ficbank-security-monitoring-analysis/blob/main/Viney%20Washington%20_%20%20FICBANK-Security-Monitoring-Assessment.pdf)
 
 ## Objective
 Conduct a security monitoring data analysis of a financial institution’s log files to identify suspicious activity, detect potential threats, and evaluate monitoring effectiveness.
